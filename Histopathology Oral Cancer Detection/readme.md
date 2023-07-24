@@ -3,8 +3,8 @@ HISTOPATHOLOGY ORAL CANCER PREDICTION 🦷
 ## INTRODUCTION :
 Histopathology oral cancer detection using CNN involves training a deep learning model (CNN) on a large dataset of histopathological images of oral tissues. The CNN learns to recognize patterns and features indicative of cancerous or non-cancerous tissues. After training, the model can assist pathologists by quickly and accurately identifying oral cancer in new biopsy samples.
 ## FEATURES :
-📍 High Accuracy...
-📍 Rapid Analysis... 
+📍 High Accuracy<br>
+📍 Rapid Analysis
 📍 Consistency 
 📍 Potential for early detection
 📍 Scalability 
