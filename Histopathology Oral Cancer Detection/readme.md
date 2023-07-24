@@ -15,6 +15,9 @@ Histopathology oral cancer detection using CNN involves training a deep learning
 ## USAGE :
 ➡Preprocess Data: Download the dataset and perform data preprocessing.<br>
 ➡Train Model: Use provided notebooks to train the CNN model.<br>
-➡Load Pre-trained Model (Optional):Load pre-trained model.<br>
 ➡Detect Oral Cancer:Apply the trained model for oral cancer detection on new images.<br>
 ➡Test and Evaluate:Evaluate model performance.<br>
+## DATA 📑 :
+The Histopathology oral cancer dataset is taken from Kaggle (www.kaggle.com.)<br>
+Histopathology oral cancer detection datasets typically consist of medical images of oral tissues obtained from biopsy samples. The images may be in formats like JPEG, PNG, or DICOM, and they come with annotations indicating whether the tissue is cancerous (malignant) or non-cancerous (benign).
+
