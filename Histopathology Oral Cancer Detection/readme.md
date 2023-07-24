@@ -29,10 +29,10 @@ Histopathology oral cancer detection datasets typically consist of medical image
 🟣 Evaluation Metrics: Metrics such as accuracy, precision, recall, F1-score used to assess the model's performance.<br>
 🟣 Model Size: Balancing model complexity and inference speed for practical deployment.<br>
 ## SKILLS 🖥📚 :
-📌 Python
-📌 Deep Learning
-📌 Computer vision
-📌 Image Processing 
+📌 Python<br>
+📌 Deep Learning<br>
+📌 Computer vision<br>
+📌 Image Processing<br>
 ## ABOUT ME 👩‍💼 :
 #  Hi! I'm Divya Dileep,a Data Analyst aspirant...
 ## Email: divyadileep2210@gmail.com
