@@ -1,3 +1,2 @@
-histopathology oral cancer detection
+HISTOPATHOLOGY ORAL CANCER PREDICTION
 
-// edit here
