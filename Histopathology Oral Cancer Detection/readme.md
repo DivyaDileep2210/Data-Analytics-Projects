@@ -21,7 +21,7 @@ Histopathology oral cancer detection using CNN involves training a deep learning
 The Histopathology oral cancer dataset is taken from Kaggle (www.kaggle.com.)<br>
 Histopathology oral cancer detection datasets typically consist of medical images of oral tissues obtained from biopsy samples. The images may be in formats like JPEG, PNG, or DICOM, and they come with annotations indicating whether the tissue is cancerous (malignant) or non-cancerous (benign).
 ## CONFIGURATIONS :
-☑ CNN Architecture: Choice of the Convolutional Neural Network architecture (e.g., VGG, ResNet) to extract features from histopathological images.<br>
+🟣 CNN Architecture: Choice of the Convolutional Neural Network architecture (e.g., VGG, ResNet) to extract features from histopathological images.<br>
 ☑ Hyperparameters: Settings like learning rate, batch size, and optimizer parameters that affect how the model is trained.<br>
 ☑ Data Preprocessing: Image resizing, normalization, and data augmentation techniques to prepare the data for training.<br>
 ☑ Model Regularization: Techniques like dropout and weight decay to prevent overfitting.<br>
