@@ -9,5 +9,5 @@ Histopathology oral cancer detection using CNN involves training a deep learning
 📍 Potential for early detection<br>
 📍 Scalability<br>
 ## INSTALLATION AND USAGE :
--Open Google Colab (https://colab.research.google.com/) and sign in with your Google account.
--
+Open Google Colab (https://colab.research.google.com/) and sign in with your Google account.
+
