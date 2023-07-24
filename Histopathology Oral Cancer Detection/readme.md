@@ -22,12 +22,12 @@ The Histopathology oral cancer dataset is taken from Kaggle (www.kaggle.com.)<br
 Histopathology oral cancer detection datasets typically consist of medical images of oral tissues obtained from biopsy samples. The images may be in formats like JPEG, PNG, or DICOM, and they come with annotations indicating whether the tissue is cancerous (malignant) or non-cancerous (benign).
 ## CONFIGURATIONS :
 🟣 CNN Architecture: Choice of the Convolutional Neural Network architecture (e.g., VGG, ResNet) to extract features from histopathological images.<br>
-☑ Hyperparameters: Settings like learning rate, batch size, and optimizer parameters that affect how the model is trained.<br>
-☑ Data Preprocessing: Image resizing, normalization, and data augmentation techniques to prepare the data for training.<br>
-☑ Model Regularization: Techniques like dropout and weight decay to prevent overfitting.<br>
-☑ Loss Function: The choice of loss function (e.g., binary cross-entropy) used to optimize the model during training.<br>
-☑ Evaluation Metrics: Metrics such as accuracy, precision, recall, F1-score used to assess the model's performance.<br>
-☑ Model Size: Balancing model complexity and inference speed for practical deployment.<br>
+🟣 Hyperparameters: Settings like learning rate, batch size, and optimizer parameters that affect how the model is trained.<br>
+🟣 Data Preprocessing: Image resizing, normalization, and data augmentation techniques to prepare the data for training.<br>
+🟣 Model Regularization: Techniques like dropout and weight decay to prevent overfitting.<br>
+🟣 Loss Function: The choice of loss function (e.g., binary cross-entropy) used to optimize the model during training.<br>
+🟣 Evaluation Metrics: Metrics such as accuracy, precision, recall, F1-score used to assess the model's performance.<br>
+🟣 Model Size: Balancing model complexity and inference speed for practical deployment.<br>
 
 
 
