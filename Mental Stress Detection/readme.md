@@ -26,7 +26,7 @@ The SWELL is a dataset for research on stress and user modelling. The dataset is
 🟡Model Selection: Choose the appropriate machine learning algorithm for stress detection. Consider different models like SVM, random forests, or deep learning models, and select the one that suits your data and problem.<br>
 🟡Training and Test Split: Divide the data into training and test sets for model evaluation. Common splits include 70/30 or 80/20 ratios, but cross-validation can also be used for better evaluation.<br>
 🟡Model Evaluation Metrics: Choose appropriate evaluation metrics (e.g., accuracy, precision, recall, F1-score) to assess the model's performance. Consider the specific requirements and objectives of the stress detection application.
-## SKILLS 🖥📚 :
+## SKILLS OBTAINED 🖥📚 :
 📌 Python<br>
 📌 Machine Learning<br>
 📌 Data analytics<br>
