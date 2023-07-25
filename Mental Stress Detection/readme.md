@@ -1,4 +1,4 @@
-## PROJECT TITLE🖋 : 
+## PROJECT TITLE : 🖋
 MENTAL STRESS DETECTION 👩‍⚕️
 ## INTRODUCTION :
 Mental stress detection using machine learning involves the application of various algorithms and techniques to analyze data related to an individual's behavior, physiological signals, or speech patterns to identify patterns indicative of mental stress.
