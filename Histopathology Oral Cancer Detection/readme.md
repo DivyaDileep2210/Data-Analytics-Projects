@@ -28,7 +28,7 @@ Histopathology oral cancer detection datasets typically consist of medical image
 🟣 Loss Function: The choice of loss function (e.g., binary cross-entropy) used to optimize the model during training.<br>
 🟣 Evaluation Metrics: Metrics such as accuracy, precision, recall, F1-score used to assess the model's performance.<br>
 🟣 Model Size: Balancing model complexity and inference speed for practical deployment.<br>
-## SKILLS 🖥📚 :
+## SKILLS OBTAINED 🖥📚 :
 📌 Python<br>
 📌 Deep Learning<br>
 📌 Computer vision<br>
